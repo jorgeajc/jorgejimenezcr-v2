@@ -1,0 +1,92 @@
+.theme-blue .badge-subhead  {
+    background-color: rgba(41, 96, 247, 0.15);
+    color: #2960f7;
+}
+
+.theme-blue .page-home .badge {
+    background-color: rgba(41, 96, 247, 0.15);
+    color: #2960f7;
+}
+
+.theme-blue .page-about .img-place::before {
+    border-color: #2960f7;
+}
+
+.theme-blue .timeline li:first-child .title {
+    background-color: #2960f7;
+}
+
+.theme-blue .timeline li:first-child::before {
+    background-color: #2960f7;
+    box-shadow: 0 0 0 2px #2960f7;
+}
+
+.theme-blue .post-grid .post-category {
+    color: #2960f7;
+}
+.bg-theme-blue {
+    background-color: #2960f7 !important;
+}
+.fg-theme-blue {
+    color: #2960f7 !important;
+}
+
+.theme-blue .bg-theme {
+    background-color: #2960f7 !important;
+}
+
+.theme-blue .fg-theme {
+    color: #2960f7 !important;
+}
+
+.theme-blue .btn-theme {
+    background-color: #2960f7;
+    color: #fff;
+}
+
+.theme-blue .btn-theme:hover {
+    background-color: #3f71f8;
+    color: #fff;
+}
+
+.theme-blue .btn-theme:focus {
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #2960f7;
+}
+
+.theme-blue .btn-fab {
+    background-color: #2960f7;
+    color: #fff;
+}
+
+.theme-blue .btn-fab:hover {
+    background-color: #3f71f8;
+    color: #fff;
+}
+
+.theme-blue .progress {
+    box-shadow: 0 0 0 2px #2960f7;
+}
+
+.theme-blue .progress-bar {
+    background-color: #2960f7;
+}
+
+.theme-blue .theme-list li::before {
+    border-color: #2960f7;
+}
+
+.theme-blue .btn-theme-outline {
+    color: #2960f7;
+    box-shadow: 0 0 0 2px #2960f7;
+}
+
+.theme-blue .btn-theme-outline:hover {
+    background-color: #2960f7;
+    color: #fff;
+}
+
+.theme-blue .btn-theme-outline:focus {
+    background-color: #2960f7;
+    color: #fff;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #2960f7;
+}

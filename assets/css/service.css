@@ -1,0 +1,27 @@
+.page-service {
+    background-color: #fff;
+}
+.card-service {
+    margin: 16px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 0;
+}
+
+.card-service .icon {
+    display: inline-block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 32px;
+    border-radius: 50%;
+    background-color: #f4f5f8;
+}
+
+.card-service .caption {
+    margin-top: 16px;
+    text-align: center;
+    color: #747474;
+}

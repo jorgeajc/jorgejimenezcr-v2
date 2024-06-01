@@ -1,0 +1,17 @@
+.btn-back_to_top {
+    position: fixed;
+    bottom: 10px;
+    right: 14px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 50%;
+    background-color: #52565c;
+    color: #fff;
+    visibility: hidden;
+    cursor: pointer;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
+    z-index: 999 !important;
+}

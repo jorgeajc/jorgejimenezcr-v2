@@ -1,0 +1,78 @@
+.theme-orange .badge-subhead  {
+  background-color: rgba(253, 125, 20, 0.15);
+  color: #fd7e14;
+}
+
+.theme-orange .page-home .badge {
+  background-color: rgba(253, 125, 20, 0.15);
+  color: #fd7e14;
+}
+.theme-orange .page-about .img-place::before {
+  border-color: #fd7e14;
+}
+.theme-orange .timeline li:first-child .title {
+  background-color: #fd7e14;
+}
+.theme-orange .timeline li:first-child::before {
+  background-color: #fd7e14;
+  box-shadow: 0 0 0 2px #fd7e14;
+}
+.theme-orange .post-grid .post-category {
+  color: #fd7e14;
+}
+.bg-theme-orange {
+  background-color: #fd7e14 !important;
+}
+.fg-theme-orange {
+  color: #fd7e14 !important;
+}
+.theme-orange .bg-theme {
+    background-color: #fd7e14 !important;
+}
+.theme-orange .fg-theme {
+    color: #fd7e14 !important;
+}
+.theme-orange .btn-theme {
+    background-color: #fd7e14;
+    color: #fff;
+}
+.theme-orange .btn-theme:hover {
+    background-color: #fd8a2c;
+    color: #fff;
+}
+.theme-orange .btn-theme:focus {
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #fd7e14;
+}
+.theme-orange .btn-fab {
+  background-color: #fd7e14;
+  color: #fff;
+}
+.theme-orange .btn-fab:hover {
+  background-color: #fd8a2c;
+  color: #fff;
+}
+.theme-orange .progress {
+  box-shadow: 0 0 0 2px #fd7e14;
+}
+.theme-orange .progress-bar {
+  background-color: #fd7e14;
+}
+.theme-orange .theme-list li::before {
+  border-color: #fd7e14;
+}
+
+.theme-orange .btn-theme-outline {
+  color: #fd7e14;
+  box-shadow: 0 0 0 2px #fd7e14;
+}
+
+.theme-orange .btn-theme-outline:hover {
+  background-color: #fd7e14;
+  color: #fff;
+}
+
+.theme-orange .btn-theme-outline:focus {
+  background-color: #fd7e14;
+  color: #fff;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 5px #fd7e14;
+}

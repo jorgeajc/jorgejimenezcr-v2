@@ -1,0 +1,26 @@
+.btn-theme-outline {
+    padding: 10px 30px;
+    margin: 5px;
+    height: unset;
+    background-color: transparent;
+    color: #747474;
+    border: 0;
+    font-weight: 500;
+    box-shadow: 0 0 0 2px #747474;
+}
+
+.btn-theme-outline:hover {
+    background-color: #747474;
+    color: #fff;
+}
+
+.btn-theme-outline:focus {
+    background-color: #747474;
+    color: #fff;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #747474;
+}
+
+
+
+
+
